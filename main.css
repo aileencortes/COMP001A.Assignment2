@@ -2,28 +2,39 @@
     Purpose: This is the style sheet for my portfolio*/
     
 body {
-    background-color:antiquewhite
+    background-color:antiquewhite 
 }
-    h1{  
+/*This is the background color for the website.*/
+h1{  
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-size: 250%;
-color:rgb(234, 140, 108);
+color:rgb(234, 140, 108); /* This color is a darker version of "darksalmon"*/
 text-align: center;
 }
+/*This section is the font, font size, font color, and font placement for all "h1"*/
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
 }
+/*This section is the font, font size, font color, and font placement for all "p"*/
 h2{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 200%;
     color: darksalmon;
 }
+    /*This section is the font, font size, font color, and font placement for all "h2"*/
 h3{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 180%;
-    color:rgb(233, 160, 135)
+    color:rgb(233, 160, 135) /* This color is a darker version of "darksalmon"*/
 }
+    /*This section is the font, font size, font color, and font placement for all "h3"*/
+
+    a{
+        color:rgb(251, 142, 102);
+    }
+    /*This is the color for the link*/
 footer{
    text-align: center; 
 }
+    /*This section is the font placement for the footer"*/
