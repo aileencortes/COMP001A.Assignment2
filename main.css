@@ -5,7 +5,9 @@ body {
     background-color:antiquewhite 
 }
 /*This is the background color for the website.*/
+
 h1{  
+   
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-size: 250%;
 color:rgb(234, 140, 108); /* This color is a darker version of "darksalmon"*/
