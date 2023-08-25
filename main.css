@@ -1,3 +1,29 @@
 /*  Author: Aileen Cortes 
     Purpose: This is the style sheet for my portfolio*/
     
+body {
+    background-color:antiquewhite
+}
+    h1{  
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 250%;
+color:rgb(234, 140, 108);
+text-align: center;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 200%;
+    color: darksalmon;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 180%;
+    color:rgb(233, 160, 135)
+}
+footer{
+   text-align: center; 
+}
